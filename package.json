@@ -1,6 +1,6 @@
 {
-  "name": "react-smooth",
-  "version": "1.0.2",
+  "name": "react-smooth-fork",
+  "version": "1.0.3",
   "description": "react animation library",
   "main": "lib/index",
   "module": "es6/index",
@@ -33,13 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/recharts/react-smooth.git"
+    "url": "https://github.com/salvoravida/react-smooth.git"
   },
   "author": "JasonHzq",
   "bugs": {
-    "url": "https://github.com/recharts/react-smooth/issues"
+    "url": "https://github.com/salvoravida/react-smooth/issues"
   },
-  "homepage": "https://github.com/recharts/react-smooth#readme",
+  "homepage": "https://github.com/salvoravida/react-smooth#readme",
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0"
